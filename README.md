@@ -1837,3 +1837,12 @@ My contact info can be found on my [GitHub page](https://github.com/donnemartin)
     Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
     http://creativecommons.org/licenses/by/4.0/
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: própria do projeto (ver o arquivo LICENSE) (mantida sem alterações).
+
+**Fonte original:** https://github.com/donnemartin/system-design-primer
